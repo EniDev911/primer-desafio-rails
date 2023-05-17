@@ -1,0 +1,31 @@
+body {
+  background-image: url(bg-attach.png);
+  background-size: cover;
+}
+
+a.my-link {
+  border-radius: 8px;
+  padding: 5px 15px;
+}
+
+a.my-link :hover {
+ background: #65c; 
+}
+.my-btn {
+  background: #323;
+  text-decoration: none;
+  color: #f4f2f3;
+  border-radius: 8px;
+  padding: 5px 15px;
+}
+
+a.my-btn:hover {
+  color: #f93;
+  background: #222 !important;
+}
+
+.card-img-top {
+  object-fit: cover;
+  height: 600px;
+}
+
